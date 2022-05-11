@@ -1,5 +1,5 @@
-# DL201 : The 4-Week Advanced Deep Learning Bootcamp from Unpack AI
-## Deep learning 201
+# DL201
+# 4-Weeks Advanced Deep Learning Bootcamp from Unpack AI
 ### Deep dive into working with data, data processing and building predictive models.
 
 🎉Congratulations on continuing your learning path to become a versatile AI Practitioner.<br/>
@@ -121,4 +121,3 @@ cohorts</p></li>
 </tr>
 </tbody>
 </table>
-                                                     |                                                           |
