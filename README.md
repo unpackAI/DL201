@@ -36,7 +36,7 @@ evaluation.<br/><br/>
  - Be able to work with many python packages and ML and AutoML tools, e.g pandas,
 numpy, pytorch, fast.ai, tai-chi, pycaret, unpackai and many more.<br/><br/>
  - Get familiar with the everyday techniques and skills of machine learning engineers and software developers, such as 
-check github repos for code, read documentations, google as a pro etc<br/><br/>
+check github repos for code, read documentation, google as a pro etc<br/><br/>
  - Become a contributor to unpackai's AutoML packages: unpackai and tai-chi that simplifies
 the code and accelerates the development cycles of AI models. Unlock the opportunity to
 become the mentor for DL101s to enable more business professionals to learn and apply
