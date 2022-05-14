@@ -47,7 +47,7 @@ AIML.<br/>
 <tbody>
 <tr class="odd">
 <td>Week</td>
-<td>Title</td>
+<td>Skills</td>
 <td>Learning Content</td>
 </tr>
 <tr class="even">
@@ -65,13 +65,13 @@ the project by the end of 4th week.</p></li>
 <td>1</td>
 <td>Data Loading and Exploratory Analysis</td>
 <td><ol type="1">
-<li><p>understand how to load datasets and metadata in the most common
+<li><p>Understand how to load datasets and metadata in the most common
 file formats</p></li>
-<li><p>explore the datasets and discern if it is suitable for adaptation
+<li><p>Explore the datasets and discern if it is suitable for adaptation
 to our problem</p></li>
-<li><p>gain tools to manipulate metadata and tabular data using
+<li><p>Gain tools to manipulate metadata and tabular data using
 Pandas</p></li>
-<li><p>have an appreciation for how data can be represented as tensors
+<li><p>Have an appreciation for how data can be represented as tensors
 Explore the data-centric approach in AI, and learn about its importance
 in Machine &amp; Deep Learning.</p></li>
 <li><p>Utilize tools to label, improve and balance your
@@ -82,27 +82,20 @@ datasets.</p></li>
 <td>2</td>
 <td>Data Preprocessing and Transformations</td>
 <td><ol type="1">
-<li><p>Common Data Wrangling tasks</p></li>
-<li><p>Feature engineering</p></li>
-<li><p>Grouping into Categories</p></li>
-<li><p>Feature Decomposition</p></li>
-<li><p>Tabular Data Transformation methods</p></li>
-<li><p>Computer vision preprocessing techniques like label encoding,
-handling unbalanced classes</p></li>
-<li><p>CV Data transformation like normalizing pixel values</p></li>
-<li><p>Text preprocessing for NLP tasks like encoding and
-embeddings</p></li>
+<li><p>Explore common data wrangling tasks</p></li>
+<li><p>Learn how to apply feature engineering methods to spreadsheet data, such as grouping into categories, feature decomposition, tabular data transformation methods</p></li>
+<li><p>Master computer vision preprocessing techniques like label encoding, handling unbalanced classes; image data transformation like normalizing pixel values</p></li>
+<li><p>Dive into text preprocessing for NLP tasks like encoding and embeddings</p></li>
 </ol></td>
 </tr>
 <tr class="odd">
 <td>3</td>
 <td>Algorithms and Model Training</td>
 <td><ol type="1">
-<li><p>The most common cutting edge DL algorithms and
-architectures</p></li>
-<li><p>Pretrained models</p></li>
-<li><p>Hyperparameters</p></li>
-<li><p>Fine-tuning of pretrained models</p></li>
+<li><p>Discuss the most common cutting edge DL algorithms and architectures in computer vision, NLP</p></li>
+<li><p>Explore the best performing machine learning models used in supervised machine learning for structured data</p></li>
+<li><p>Learn how to apply pretrained models on new ML tasks with hyperparameters optimization and most common fine-tuning approaches</p></li>
+<li><p>Train Neural Network from Scratch using only Pytorch to undersand the mechanics of building ML model.</p></li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -114,9 +107,15 @@ project to deliver the final results.</p></li>
 <li><p>Get on 1:1 calls with mentors to get personalized feedback and
 recommendations before presenting it as a proof-of-concept project on
 Demo Day.</p></li>
-<li><p>Get published on our social media to feature your project,
-receive the certificate and opportunity to become a mentor for future
-cohorts</p></li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Graduation and Demo Day</td>
+<td><ol type="1">
+<li><p>Present your project in the final session, receive the final feedback from mentors in order to get yourself ready for Demo Day</p></li>
+<li><p>Participate in Demo Day to showcase your achievement and feature your project in front of anyone. We will broadast this event on our social media to invite anyone interested in real AI use cases built by our graduates.</p></li>
+<li><p>Receive the certificate and get endorse for your skills on LinkedIn</p></li>
 </ol></td>
 </tr>
 </tbody>
