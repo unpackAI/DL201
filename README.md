@@ -19,6 +19,9 @@ adventure in harnessing artificial intelligence: DL201 Bootcamp with deep dive i
 with data, data processing and building predictive models.
 Let's learn what the course is about :👇
 
+![Course Goals](https://raw.githubusercontent.com/unpackAI/DL201/main/img/Ai201%20concept%20map.png?raw=true)
+
+
 ### 1. 🎳Goals
 
 Be able to build AI proof of a concept to demonstrate to a software developer what should
